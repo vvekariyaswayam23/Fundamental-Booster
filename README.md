@@ -36,10 +36,12 @@ This project is perfect for Python beginners learning the fundamentals of progra
 
 🛠️ Technologies Used
 Technology	Purpose
+
 🐍 Python	Main Programming Language
 📅 datetime	Birth Year Calculation
 💻 Console	User Interaction
 📂 Project Structure
+
 Personal-Data-Collector/
 │
 ├── Fundamental Booster.py
@@ -51,15 +53,21 @@ from datetime import datetime
 print("Welcome to the Interactive Personal Data Collector!\n")
 
 name = input("Please enter your name: ")
+
 age = int(input("Please enter your age: "))
+
 height = float(input("Please enter your height in meters: "))
+
 fav_number = int(input("Please enter your favourite number: "))
 
 print("\nThank you! Here is the information we collected:\n")
 
 print(f"Name: {name} (Type: {type(name)}, Memory Address: {id(name)})")
+
 print(f"Age: {age} (Type: {type(age)}, Memory Address: {id(age)})")
+
 print(f"Height: {height} (Type: {type(height)}, Memory Address: {id(height)})")
+
 print(f"Favourite Number: {fav_number} (Type: {type(fav_number)}, Memory Address: {id(fav_number)})")
 
 current_year = datetime.now().year
@@ -104,10 +112,13 @@ Your birth year is approximately: 2006
 🚀 How to Run
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/personal-data-collector.git
+
 2️⃣ Navigate to Project Folder
 cd personal-data-collector
+
 3️⃣ Run the Program
 python "Fundamental Booster.py"
+
 🎓 Concepts Practiced
 Variables
 Input/Output
@@ -116,6 +127,7 @@ Type Casting
 Functions
 Memory Management
 Date & Time
+
 String Formatting
 🌟 Future Improvements
 🔐 Add input validation
