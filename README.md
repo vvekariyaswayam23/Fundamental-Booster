@@ -77,7 +77,8 @@ Then add:
 
 ## 📸 Screenshot
 
-![Program Output](Screenshot 2026-06-19 175246)
+<img width="568" height="200" alt="Screenshot 2026-06-19 175246" src="https://github.com/user-attachments/assets/bae67642-35f2-43d0-bf76-e9b6ed3d9b5b" />
+
 
 Or if your screenshot is stored in GitHub:
 
